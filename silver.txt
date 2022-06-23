@@ -1,0 +1,4 @@
+gold 
+bronz
+mica
+silver
