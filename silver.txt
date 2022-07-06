@@ -2,3 +2,4 @@ gold
 bronz
 mica
 silver
+to get access of other users to use his file 
