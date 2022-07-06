@@ -3,4 +3,7 @@ bronz
 mica
 silver
 to get access of other users to use his file
-to test fetch & pull command 
+to test fetch & pull command
+hii hhello
+everyone
+ 
