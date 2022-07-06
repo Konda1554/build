@@ -2,4 +2,5 @@ gold
 bronz
 mica
 silver
-to get access of other users to use his file 
+to get access of other users to use his file
+to test fetch & pull command 
